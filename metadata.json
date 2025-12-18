@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Nexus Admin",
+  "description": "A high-end admin dashboard and login system featuring built-in design specifications and integrated Gemini AI for data insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
