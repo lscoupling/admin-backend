@@ -1,4 +1,4 @@
-
+ 
 export enum AppView {
   LOGIN = 'LOGIN',
   REGISTER = 'REGISTER',
